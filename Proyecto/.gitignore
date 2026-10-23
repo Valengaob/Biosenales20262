@@ -1,0 +1,13 @@
+Set-Content -Path .gitignore -Encoding utf8 -Value @"
+# Datos de la base (pesados; se descargan de Figshare)
+ChapmanECG/
+*.zip
+
+# Articulos y enunciado (derechos de autor)
+*.pdf
+
+# Archivos temporales de Python y Jupyter
+__pycache__/
+.ipynb_checkpoints/
+"@
+
