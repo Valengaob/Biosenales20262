@@ -1,0 +1,6 @@
+cache/
+ECGData_muestra/
+ECGDenoised_validacion/
+Diagnostics_muestra_2000.csv
+*.zip
+Diagnostics.xlsx
